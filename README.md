@@ -1,3 +1,4 @@
+![imagem_aventine](https://github.com/ruansmachado/U.S.S.Aventine/blob/main/aventine_pic.jpg?raw=true)
 # U.S.S. Aventine
 Jogo de texto com escolhas de decisão no Terminal, criado inteiramente em Python. 
 # História
