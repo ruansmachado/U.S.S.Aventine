@@ -32,4 +32,4 @@ def rot(word):  # Se desejar aumentar a velocidade do texto, é só alterar para
     for i in word:
         sys.stdout.write(i)
         sys.stdout.flush()
-        time.sleep(0.0)
+        time.sleep(0.049)
