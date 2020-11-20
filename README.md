@@ -1,5 +1,3 @@
-![imagem_aventine](https://github.com/ruansmachado/U.S.S.Aventine/blob/main/mark-rademaker-aventinefinal2017-earth1.jpg?raw=true)
-
 # U.S.S. Aventine
 Jogo de texto com escolhas de decisão no Terminal, criado inteiramente em Python. 
 # História
